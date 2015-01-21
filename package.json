@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "event-kit": ">= 0.7.2",
-    "vim-mode": ">= 0.29.0"
+    "vim-mode": "git+https://github.com/atom/vim-mode.git"
   }
 }
